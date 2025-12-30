@@ -4,8 +4,15 @@ Change Log
 This document records all notable changes to [django-bleach](https://github.com/Missper/django-bleach).
 This project adheres to [Semantic Versioning](https://semver.org/).
 
-[unreleased](https://github.com/Missper/django-bleach/compare/3.2.0...master) changes
+[unreleased](https://github.com/Missper/django-bleach/compare/3.2.1...master) changes
 -------------------------------------------------------------------------------------
+
+Version 3.2.1
+=============
+**2025-12-30**
+
+* Fix dependency conflict with `weasyprint67.0` by relaxing `bleach` requirement.
+  Replaced `bleach[css]>=6` with `bleach>=6` and explicit `tinycss2` dependency to allow installation of `tinycss2>=1.5`.
 
 Version 3.2.0
 =============
