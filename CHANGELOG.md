@@ -1,11 +1,19 @@
 Change Log
 ==========
 
-This document records all notable changes to [django-bleach](https://github.com/marksweb/django-bleach).
+This document records all notable changes to [django-bleach](https://github.com/Missper/django-bleach).
 This project adheres to [Semantic Versioning](https://semver.org/).
 
-[unreleased](https://github.com/marksweb/django-bleach/compare/3.1.0...master) changes
+[unreleased](https://github.com/Missper/django-bleach/compare/3.2.0...master) changes
 -------------------------------------------------------------------------------------
+
+Version 3.2.0
+=============
+**2025-12-30**
+
+* Support for Django 5.2
+* Upgrade Bleach dependency to >= 6.0
+* Update repository URL to Missper/django-bleach
 
 Version 3.1.0
 =============

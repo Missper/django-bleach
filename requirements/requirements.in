@@ -1,4 +1,4 @@
-bleach>=5,<6
+bleach>=6
 coverage[toml]
 mock
 tinycss2

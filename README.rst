@@ -19,23 +19,23 @@ django-bleach - Bleach and sanitise user HTML
 
 |
 
-.. image:: https://codecov.io/gh/marksweb/django-bleach/branch/master/graph/badge.svg
-  :target: https://codecov.io/gh/marksweb/django-bleach
+.. image:: https://codecov.io/gh/Missper/django-bleach/branch/master/graph/badge.svg
+  :target: https://codecov.io/gh/Missper/django-bleach
 
 .. image:: https://api.codacy.com/project/badge/Grade/c34f923ab0a84a6f96728866c749d511
    :alt: Codacy Badge
-   :target: https://app.codacy.com/app/marksweb/django-bleach?utm_source=github.com&utm_medium=referral&utm_content=marksweb/django-bleach&utm_campaign=Badge_Grade_Dashboard
+   :target: https://app.codacy.com/app/Missper/django-bleach?utm_source=github.com&utm_medium=referral&utm_content=Missper/django-bleach&utm_campaign=Badge_Grade_Dashboard
 
-.. image:: https://results.pre-commit.ci/badge/github/marksweb/django-bleach/master.svg
-   :target: https://results.pre-commit.ci/latest/github/marksweb/django-bleach/master
+.. image:: https://results.pre-commit.ci/badge/github/Missper/django-bleach/master.svg
+   :target: https://results.pre-commit.ci/latest/github/Missper/django-bleach/master
    :alt: pre-commit.ci status
 
-.. image:: https://img.shields.io/lgtm/grade/python/g/marksweb/django-bleach.svg?logo=lgtm&logoWidth=18
-   :target: https://lgtm.com/projects/g/marksweb/django-bleach/context:python
+.. image:: https://img.shields.io/lgtm/grade/python/g/Missper/django-bleach.svg?logo=lgtm&logoWidth=18
+   :target: https://lgtm.com/projects/g/Missper/django-bleach/context:python
    :alt: Language grade: Python
 
-.. image:: https://img.shields.io/lgtm/alerts/g/marksweb/django-bleach.svg?logo=lgtm&logoWidth=18
-   :target: https://lgtm.com/projects/g/marksweb/django-bleach/alerts/
+.. image:: https://img.shields.io/lgtm/alerts/g/Missper/django-bleach.svg?logo=lgtm&logoWidth=18
+   :target: https://lgtm.com/projects/g/Missper/django-bleach/alerts/
    :alt: Total alerts
 
 |
